@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppHome10", "ConsoleAppHome10\ConsoleAppHome10.csproj", "{FB75B43F-9B9E-4488-9831-DF5AE04EC7F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageAndProducts", "StorageAndProducts\StorageAndProducts.csproj", "{535CA460-026F-4DCD-A27B-D29AD32D24B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB75B43F-9B9E-4488-9831-DF5AE04EC7F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB75B43F-9B9E-4488-9831-DF5AE04EC7F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB75B43F-9B9E-4488-9831-DF5AE04EC7F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB75B43F-9B9E-4488-9831-DF5AE04EC7F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{535CA460-026F-4DCD-A27B-D29AD32D24B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535CA460-026F-4DCD-A27B-D29AD32D24B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535CA460-026F-4DCD-A27B-D29AD32D24B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535CA460-026F-4DCD-A27B-D29AD32D24B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10638237-76CC-4EA4-A7B0-695819F3A213}
+	EndGlobalSection
+EndGlobal
